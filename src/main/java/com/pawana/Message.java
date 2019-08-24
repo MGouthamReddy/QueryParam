@@ -7,7 +7,7 @@ import javax.ws.rs.QueryParam;
 
 @Path("/home")
 public class  Message{
-// Remove L from Love Its all are over..
+// Remove L from Lover Its all are over..
 	@GET
 	@Path("/msg")
 	public String ShowMsg(
